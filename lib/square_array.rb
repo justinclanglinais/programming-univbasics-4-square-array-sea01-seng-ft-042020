@@ -3,3 +3,4 @@ def square_array(array)
   array[index] = array[index] ** 2
   end
 end
+
